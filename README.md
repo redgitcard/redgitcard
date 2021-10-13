@@ -1,4 +1,4 @@
-### Hi there 👋
+### The personal homepage of Rong ZHU.
 
 <!--
 **redgitcard/redgitcard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
